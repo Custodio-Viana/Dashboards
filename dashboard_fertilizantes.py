@@ -17,8 +17,9 @@ def load_and_clean_data():
     if not os.path.exists(DATA_FILE):
         return None
     
-    # Tenta ler o arquivo com diferentes codificações (para evitar erros de caracteres estranhos)
-    for encoding in ['latin1', 'utf-8', 'cp1252']:
+    # Tenta ler o arquivo com diferentes codificações, priorizando utf-8/utf-8-sig
+    # A ordem importa! utf-8 não aceita bytes invalidos, enquanto latin1 aceita quase tudo como errado.
+    for encoding in ['utf-8', 'utf-8-sig', 'latin1', 'cp1252']:
         try:
             df = pd.read_csv(DATA_FILE, encoding=encoding)
             break
