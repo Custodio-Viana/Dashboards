@@ -5,7 +5,7 @@ Premium,Compo Expert,Basacote Plus,105,20,400,16,8,12,20,2100,Libertação Contr
 Premium,Compo Expert,Floranid Twin Eagle,120,20,300,20,5,8,15,1800,Equilibrados,Todos os nutrientes no mesmo grânulo (sem segregação).
 Premium,Mivena,Granucote CRF,110,20,350,18,5,15,18,1980,Libertação Controlada (CRF),Fornecimento de NPK base para o ciclo da planta.
 Premium,Yara,YaraMila Complex,45,20,400,12,11,18,20,900,Equilibrados,Todos os nutrientes no mesmo grânulo (sem segregação).
-Premium,Syngenta,Heritage Action (Nutri),135,20,20,15,0,0,10,135,Sumplementos Nutrientes,"Suplemento de nutrientes específicos (K, Mg, S) ou proteção."
+Premium,Syngenta,Heritage Action (Nutri),135,20,20,15,0,0,10,1350,Sumplementos Nutrientes,"Suplemento de nutrientes específicos (K, Mg, S) ou proteção."
 Premium,Andersons,Contec DG,125,20,250,18,9,18,13,1625,Fortificador,Foco em azoto para crescimento e potássio para resistência.
 Premium,LebanonTurf,Country Club,100,20,300,19,0,19,15,1500,Sumplementos Nutrientes,"Suplemento de nutrientes específicos (K, Mg, S) ou proteção."
 Premium,ICL Everris,Greenmaster Pro-Iron,85,20,300,12,0,10,15,1275,Fortificador,Foco em azoto para crescimento e potássio para resistência.
@@ -19,4 +19,5 @@ Econômico,Timac Agro,Europlus,42,20,350,15,5,10,18,756,Equilibrados,Todos os nu
 Econômico,K+S,Korn-Kali,22,20,300,0,0,40,15,330,Sumplementos Nutrientes,"Suplemento de nutrientes específicos (K, Mg, S) ou proteção."
 Econômico,OCI,Nutramon,30,20,200,27,0,0,10,300,Nitrogenados Puros,Foco exclusivo em crescimento vegetativo rápido.
 Econômico,Generico,Ureia 46,32,20,200,46,0,0,10,320,Fortificador,Foco em azoto para crescimento e potássio para resistência.
+
 
