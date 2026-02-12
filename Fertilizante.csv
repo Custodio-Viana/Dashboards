@@ -1,21 +1,22 @@
-Categoria,Fabricante,Produto,PreÁo Est. (Ä),Saca_Kg,KG_por_Ha,N (%),P (%),K (%),Sacas_por_Ha,Total_por_Ha,Tecnologia,CaracterÌstica
-Premium,ICL Everris,Sierrablen Plus,115,20,350,19,5,18,18,2070,LibertaÁ„o Controlada (CRF),Fornecimento de NPK base para o ciclo da planta.
-Premium,ICL Everris,ProTurf High K,95,20,300,12,5,20,15,1425,Fortificador,Foco em azoto para crescimento e pot·ssio para resistÍncia.
-Premium,Compo Expert,Basacote Plus,105,20,400,16,8,12,20,2100,LibertaÁ„o Controlada (CRF),Fornecimento de NPK base para o ciclo da planta.
-Premium,Compo Expert,Floranid Twin Eagle,120,20,300,20,5,8,15,1800,Equilibrados,Todos os nutrientes no mesmo gr‚nulo (sem segregaÁ„o).
-Premium,Mivena,Granucote CRF,110,20,350,18,5,15,18,1980,LibertaÁ„o Controlada (CRF),Fornecimento de NPK base para o ciclo da planta.
-Premium,Yara,YaraMila Complex,45,20,400,12,11,18,20,900,Equilibrados,Todos os nutrientes no mesmo gr‚nulo (sem segregaÁ„o).
-Premium,Syngenta,Heritage Action (Nutri),135,20,20,15,0,0,1,135,Sumplementos Nutrientes,"Suplemento de nutrientes especÌficos (K, Mg, S) ou proteÁ„o."
-Premium,Andersons,Contec DG,125,20,250,18,9,18,13,1625,Fortificador,Foco em azoto para crescimento e pot·ssio para resistÍncia.
-Premium,LebanonTurf,Country Club,100,20,300,19,0,19,15,1500,Sumplementos Nutrientes,"Suplemento de nutrientes especÌficos (K, Mg, S) ou proteÁ„o."
-Premium,ICL Everris,Greenmaster Pro-Iron,85,20,300,12,0,10,15,1275,Fortificador,Foco em azoto para crescimento e pot·ssio para resistÍncia.
-EconÙmico,Yara,YaraBela Extran,28,20,300,27,0,0,15,420,Nitrogenados Puros,Foco exclusivo em crescimento vegetativo r·pido.
-EconÙmico,EuroChem,Nitrofoska,35,20,400,15,15,15,20,700,Equilibrados,Todos os nutrientes no mesmo gr‚nulo (sem segregaÁ„o).
-EconÙmico,ICL,Agromaster,55,20,350,19,5,20,18,990,LibertaÁ„o Controlada (CRF),Fornecimento de NPK base para o ciclo da planta.
-EconÙmico,Compo,Blaukorn Classic,38,20,450,12,12,17,23,874,Equilibrados,Todos os nutrientes no mesmo gr‚nulo (sem segregaÁ„o).
-EconÙmico,Fertiberia,NPK Tradicional,25,20,500,10,10,10,25,625,LibertaÁ„o Controlada (CRF),Fornecimento de NPK base para o ciclo da planta.
-EconÙmico,Haifa,Multi-NPK,48,20,400,13,0,46,20,960,Sumplementos Nutrientes,"Suplemento de nutrientes especÌficos (K, Mg, S) ou proteÁ„o."
-EconÙmico,Timac Agro,Europlus,42,20,350,15,5,10,18,756,Equilibrados,Todos os nutrientes no mesmo gr‚nulo (sem segregaÁ„o).
-EconÙmico,K+S,Korn-Kali,22,20,300,0,0,40,15,330,Sumplementos Nutrientes,"Suplemento de nutrientes especÌficos (K, Mg, S) ou proteÁ„o."
-EconÙmico,OCI,Nutramon,30,20,200,27,0,0,10,300,Nitrogenados Puros,Foco exclusivo em crescimento vegetativo r·pido.
-EconÙmico,Generico,Ureia 46,32,20,200,46,0,0,10,320,Fortificador,Foco em azoto para crescimento e pot·ssio para resistÍncia.
+Categoria,Fabricante,Produto,Pre√ßo Est. (‚Ç¨),Saca_Kg,KG_por_Ha,N (%),P (%),K (%),Sacas_por_Ha,Total_por_Ha,Tecnologia,Caracter√≠stica
+Premium,ICL Everris,Sierrablen Plus,115,20,350,19,5,18,18,2070,Liberta√ß√£o Controlada (CRF),Fornecimento de NPK base para o ciclo da planta.
+Premium,ICL Everris,ProTurf High K,95,20,300,12,5,20,15,1425,Fortificador,Foco em azoto para crescimento e pot√°ssio para resist√™ncia.
+Premium,Compo Expert,Basacote Plus,105,20,400,16,8,12,20,2100,Liberta√ß√£o Controlada (CRF),Fornecimento de NPK base para o ciclo da planta.
+Premium,Compo Expert,Floranid Twin Eagle,120,20,300,20,5,8,15,1800,Equilibrados,Todos os nutrientes no mesmo gr√¢nulo (sem segrega√ß√£o).
+Premium,Mivena,Granucote CRF,110,20,350,18,5,15,18,1980,Liberta√ß√£o Controlada (CRF),Fornecimento de NPK base para o ciclo da planta.
+Premium,Yara,YaraMila Complex,45,20,400,12,11,18,20,900,Equilibrados,Todos os nutrientes no mesmo gr√¢nulo (sem segrega√ß√£o).
+Premium,Syngenta,Heritage Action (Nutri),135,20,20,15,0,0,10,135,Sumplementos Nutrientes,"Suplemento de nutrientes espec√≠ficos (K, Mg, S) ou prote√ß√£o."
+Premium,Andersons,Contec DG,125,20,250,18,9,18,13,1625,Fortificador,Foco em azoto para crescimento e pot√°ssio para resist√™ncia.
+Premium,LebanonTurf,Country Club,100,20,300,19,0,19,15,1500,Sumplementos Nutrientes,"Suplemento de nutrientes espec√≠ficos (K, Mg, S) ou prote√ß√£o."
+Premium,ICL Everris,Greenmaster Pro-Iron,85,20,300,12,0,10,15,1275,Fortificador,Foco em azoto para crescimento e pot√°ssio para resist√™ncia.
+Econ√¥mico,Yara,YaraBela Extran,28,20,300,27,0,0,15,420,Nitrogenados Puros,Foco exclusivo em crescimento vegetativo r√°pido.
+Econ√¥mico,EuroChem,Nitrofoska,35,20,400,15,15,15,20,700,Equilibrados,Todos os nutrientes no mesmo gr√¢nulo (sem segrega√ß√£o).
+Econ√¥mico,ICL,Agromaster,55,20,350,19,5,20,18,990,Liberta√ß√£o Controlada (CRF),Fornecimento de NPK base para o ciclo da planta.
+Econ√¥mico,Compo,Blaukorn Classic,38,20,450,12,12,17,23,874,Equilibrados,Todos os nutrientes no mesmo gr√¢nulo (sem segrega√ß√£o).
+Econ√¥mico,Fertiberia,NPK Tradicional,25,20,500,10,10,10,25,625,Liberta√ß√£o Controlada (CRF),Fornecimento de NPK base para o ciclo da planta.
+Econ√¥mico,Haifa,Multi-NPK,48,20,400,13,0,46,20,960,Sumplementos Nutrientes,"Suplemento de nutrientes espec√≠ficos (K, Mg, S) ou prote√ß√£o."
+Econ√¥mico,Timac Agro,Europlus,42,20,350,15,5,10,18,756,Equilibrados,Todos os nutrientes no mesmo gr√¢nulo (sem segrega√ß√£o).
+Econ√¥mico,K+S,Korn-Kali,22,20,300,0,0,40,15,330,Sumplementos Nutrientes,"Suplemento de nutrientes espec√≠ficos (K, Mg, S) ou prote√ß√£o."
+Econ√¥mico,OCI,Nutramon,30,20,200,27,0,0,10,300,Nitrogenados Puros,Foco exclusivo em crescimento vegetativo r√°pido.
+Econ√¥mico,Generico,Ureia 46,32,20,200,46,0,0,10,320,Fortificador,Foco em azoto para crescimento e pot√°ssio para resist√™ncia.
+
